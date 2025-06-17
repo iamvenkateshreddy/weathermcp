@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/iamvenkateshreddy-weathermcp-badge.png)](https://mseep.ai/app/iamvenkateshreddy-weathermcp)
+
 # MCP Server Basic Example
 
 This is a basic example of a Model Context Protocol (MCP) server implementation that demonstrates core functionality including tools and resources.
